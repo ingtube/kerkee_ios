@@ -53,7 +53,7 @@ FOUNDATION_EXPORT const unsigned char kerkeeVersionString[];
 #import "NSData+Base64.h"
 
 #pragma mark - debug
-#import "KCLog.h"
+//#import "KCLog.h"
 
 #pragma mark - util
 #import "KCArchiver.h"
