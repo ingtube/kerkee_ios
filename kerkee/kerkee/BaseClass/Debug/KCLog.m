@@ -111,7 +111,7 @@ DEF_SINGLETON( KCLogger );
 		self.showLevel = YES;
 		self.showModule = NO;
 		
-		self.enabled = YES;
+		self.enabled = NO;
 		self.backlogs = [NSMutableArray array];
 		self.indentTabs = 0;
         
